@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<company>
+<staff id="1001">
+<firstname>Chethan</firstname>
+<lastname>KMS</lastname>
+<org>Software Industry</org>
+<unit>Engineering Project Development and Maintainance</unit>
+</staff>
+<technical>
+<skills>Java, Javascript, Oracle</skills>
+<certification>X-certified Developer</certification>
+</technical>
+</company>
